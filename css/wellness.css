@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat&display=swap);
+body{
+    
+    background-color: #74ceb7;
+    font-family: 'Montserrat', sans-serif !important;;
+    color: white;
+}
+/* Styles for header */
+.row{
+    background-color: #2C858D;
+    height:auto;
+}
+ul{
+    margin-left: 255px;
+    
+}
+.nav-list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    color-adjust: white;
+    
+}
+.list{
+    margin-left: 50px;
+    margin-top: 50px;
+    /* color:white; */
+} 
+
+a{
+    color:white;
+}
+
+.list a:hover{
+    color: #ffffcb;
+    /* border: 2px solid #004056; */
+    /* border-radius: 10px;
+    padding: 2px;*/
+    /* background-color: pink;  */
+}
+
+
+
+.menu{
+    /* background-color:yellow; */
+    background-position: 0fr;
+    /* border:1px solid purple; */
+
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    
+    color: white;
+    
+    font-weight: 400;
+    /* font-weight:bold; */
+    
+    
+    
+
+}
+/* .absolute{
+    position: absolute;
+} */
+
+.font-p{
+    
+    font-weight: 900;
+    color:#004056;
+}
+
+.font{
+    
+    font-weight: 900;
+    color:white;
+}
+
+p{
+    align-content: center;
+}
+
+ .center {
+        margin: auto;
+        width: 50%;
+        /* border: 3px solid green; */
+        /* padding: 10px; */
+  }
+
+
+.bg-color{
+    background: rgba(255, 255, 255, 0.548);
+    /* font-family: 'Montserrat', sans-serif; */
+    /* color:#FFFFCB; */
+   
+    /* box-sizing: content-box;
+    text-overflow: ellipsis;
+    vertical-align: middle; */
+}
+
+#Reminders-list{
+    background: rgba(255, 255, 255, 0.548);
+}
+
+/* adding space between buttons */
+
+.button-space{
+margin-left:40px;
+}
